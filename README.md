@@ -1,4 +1,4 @@
-# 블록체인 거래
+# 블록체인 거래 이론
 
 ## 비트코인 거래 생성
 ![1525413286024-1](https://user-images.githubusercontent.com/88940298/147848166-35ca312c-ccea-4444-9064-db42bd2a6b43.png)
